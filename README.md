@@ -14,5 +14,6 @@ Forex trade bot on Oanda [Public Edition]
  If you interested in this project, You can contact me.
 
 
- # E-Mail : 5735512155@psu.ac.th
- # LinkedIn : https://www.linkedin.com/in/jakgri-klabdi-1b5557183/
+ # Contact 
+ - E-Mail : 5735512155@psu.ac.th
+ - LinkedIn : https://www.linkedin.com/in/jakgri-klabdi-1b5557183/
