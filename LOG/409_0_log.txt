@@ -1,0 +1,38 @@
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 409
+Bot Slot Number : 0
+Mode I
+Instrument : 'USD_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 1000 | TPP_1 : 100
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:50:08] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 409
+Bot Slot Number : 0
+Mode I
+Instrument : 'USD_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 1000 | TPP_1 : 100
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:56:38] -- [✔]  ==========>>  Get user account, token key and decoded

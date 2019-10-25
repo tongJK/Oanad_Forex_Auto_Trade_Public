@@ -1,0 +1,1106 @@
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:50:07] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:59:23] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:59:37] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 16:59:51] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:00:09] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:00:21] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'EUR_JPY' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:00:33] -- [✖]  ==========>>  Database Connection Part_2 Fail by 1054 (42S22): Unknown column 'api_key' in 'field list'
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:03:51] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:07:01] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:08:31] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:14:24] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:15:34] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:16:34] -- [✔]  ==========>>  Get user account, token key and decoded
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-10 17:20:26] -- [✔]  ==========>>  Get user account, token key and decoded
+
+  [2019-09-10 17:20:26] -- [✔]  ==========>>  Decode Account ID & Token : SUCCESSFULLY
+
+
+
+--------------------             STATE II : Generate API Client from User id and token             --------------------
+
+  [2019-09-10 17:20:31] -- [✔]  ==========>>  Generate client for user SUCCESSFULLY
+
+
+
+--------------------        STATE III : Check Conditions for First Order from User's config        --------------------
+
+  [2019-09-10 17:20:35] -- [✔]  ==========>>  user's balance checked
+
+  [2019-09-10 17:20:38] -- [✔]  ==========>>  market trainds & instrument price checked
+
+  [2019-09-10 17:20:40] -- [✔]  ==========>>  calculate stop loss price and take profit price finished
+
+
+
+--------------------                         STATE IV : Create First Order                         --------------------
+
+  [2019-09-10 17:20:43] -- [✔]  ==========>>  First order created with 'S' order, trade_id : 1418
+
+
+
+--------------------                      STATE V : Check User's Trade Status                      --------------------
+
+  [2019-09-10 17:20:48] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:20:51] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -1.3000
+
+  [2019-09-10 17:26:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:26:05] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -1.7000
+
+  [2019-09-10 17:31:17] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:31:20] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -1.0000
+
+  [2019-09-10 17:36:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:36:35] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -0.3000
+
+  [2019-09-10 17:41:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:41:49] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.7000
+
+  [2019-09-10 17:47:01] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:47:04] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 1.4000
+
+  [2019-09-10 17:52:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:52:18] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 1.7000
+
+  [2019-09-10 17:57:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 17:57:33] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.1000
+
+  [2019-09-10 18:02:44] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:02:47] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.4000
+
+  [2019-09-10 18:07:59] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:08:06] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.5000
+
+  [2019-09-10 18:13:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:13:21] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 1.4000
+
+  [2019-09-10 18:18:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:18:35] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.3000
+
+  [2019-09-10 18:23:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:23:50] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.5000
+
+  [2019-09-10 18:29:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:29:04] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 5.8000
+
+  [2019-09-10 18:34:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:34:18] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.1000
+
+  [2019-09-10 18:39:31] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:39:33] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.0000
+
+  [2019-09-10 18:44:45] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:44:47] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.1000
+
+  [2019-09-10 18:49:59] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:50:06] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.5000
+
+  [2019-09-10 18:55:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 18:55:20] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.5000
+
+  [2019-09-10 19:00:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:00:36] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.7000
+
+  [2019-09-10 19:05:48] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:05:51] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.5000
+
+  [2019-09-10 19:11:03] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:11:07] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 1.8000
+
+  [2019-09-10 19:16:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:16:23] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 5.8000
+
+  [2019-09-10 19:21:35] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:21:38] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 5.7000
+
+  [2019-09-10 19:26:50] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:26:53] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 5.1000
+
+  [2019-09-10 19:32:04] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:32:07] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.5000
+
+  [2019-09-10 19:37:19] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:37:22] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.1000
+
+  [2019-09-10 19:42:34] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:42:36] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.1000
+
+  [2019-09-10 19:47:48] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:47:54] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.4000
+
+  [2019-09-10 19:53:06] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:53:10] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.2000
+
+  [2019-09-10 19:58:21] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 19:58:26] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -0.7000
+
+  [2019-09-10 20:03:38] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:03:41] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -1.7000
+
+  [2019-09-10 20:08:53] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:08:55] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -0.7000
+
+  [2019-09-10 20:14:07] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:14:10] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.4000
+
+  [2019-09-10 20:19:22] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:19:25] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.8000
+
+  [2019-09-10 20:24:36] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:24:42] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.7000
+
+  [2019-09-10 20:29:54] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:30:02] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 1.9000
+
+  [2019-09-10 20:35:14] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:35:17] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.6000
+
+  [2019-09-10 20:40:29] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:40:32] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.7000
+
+  [2019-09-10 20:45:44] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:45:46] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 7.8000
+
+  [2019-09-10 20:50:58] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:51:01] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 9.0000
+
+  [2019-09-10 20:56:13] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 20:56:16] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 8.6000
+
+  [2019-09-10 21:01:28] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:01:31] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 8.7000
+
+  [2019-09-10 21:06:43] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:06:46] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 7.2000
+
+  [2019-09-10 21:11:58] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:12:01] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 6.6000
+
+  [2019-09-10 21:17:13] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:17:16] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.8000
+
+  [2019-09-10 21:22:28] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:22:32] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.1000
+
+  [2019-09-10 21:27:43] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:27:47] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.7000
+
+  [2019-09-10 21:33:00] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:33:02] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 2.6000
+
+  [2019-09-10 21:38:14] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:38:18] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 4.6000
+
+  [2019-09-10 21:43:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:43:34] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 3.8000
+
+  [2019-09-10 21:48:46] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:48:49] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = 0.6000
+
+  [2019-09-10 21:54:01] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:54:03] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.0000
+
+  [2019-09-10 21:59:15] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 21:59:18] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -2.0000
+
+  [2019-09-10 22:04:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:04:32] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -0.4000
+
+  [2019-09-10 22:09:44] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:09:51] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -2.6000
+
+  [2019-09-10 22:15:03] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:15:13] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.4000
+
+  [2019-09-10 22:20:25] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:20:30] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -2.3000
+
+  [2019-09-10 22:25:42] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:25:57] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.3000
+
+  [2019-09-10 22:31:09] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:31:11] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.4000
+
+  [2019-09-10 22:36:23] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:36:42] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.3000
+
+  [2019-09-10 22:41:54] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:41:58] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -2.7000
+
+  [2019-09-10 22:47:10] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:47:16] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.2000
+
+  [2019-09-10 22:52:28] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:52:30] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -9.2000
+
+  [2019-09-10 22:57:42] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 22:57:44] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.7000
+
+  [2019-09-10 23:02:56] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:02:59] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -8.7000
+
+  [2019-09-10 23:08:10] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:08:14] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.8000
+
+  [2019-09-10 23:13:26] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:13:30] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -9.4000
+
+  [2019-09-10 23:18:42] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:18:46] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -9.7000
+
+  [2019-09-10 23:23:58] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:24:07] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -9.4000
+
+  [2019-09-10 23:29:19] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:29:22] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.7000
+
+  [2019-09-10 23:34:34] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:34:37] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.1000
+
+  [2019-09-10 23:39:49] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:39:52] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.3000
+
+  [2019-09-10 23:45:03] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:45:06] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.8000
+
+  [2019-09-10 23:50:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:50:20] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.7000
+
+  [2019-09-10 23:55:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-10 23:55:34] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.0000
+
+  [2019-09-11 00:00:46] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:00:49] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.0000
+
+  [2019-09-11 00:06:01] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:06:03] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -4.8000
+
+  [2019-09-11 00:11:15] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:11:18] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -4.6000
+
+  [2019-09-11 00:16:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:16:32] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -3.8000
+
+  [2019-09-11 00:21:44] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:21:48] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.1000
+
+  [2019-09-11 00:27:00] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:27:04] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.1000
+
+  [2019-09-11 00:32:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:32:20] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.8000
+
+  [2019-09-11 00:37:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:37:35] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.8000
+
+  [2019-09-11 00:42:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:42:50] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -6.0000
+
+  [2019-09-11 00:48:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:48:06] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.7000
+
+  [2019-09-11 00:53:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:53:21] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -6.4000
+
+  [2019-09-11 00:58:33] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 00:58:37] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -6.7000
+
+  [2019-09-11 01:03:49] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 01:03:52] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -7.3000
+
+  [2019-09-11 01:09:04] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 01:09:08] -- [✔]  ==========>>  order ID '1418' | Instrument : 'AUD_USD' | Price : '0.68599' | Unit : '-10000' | Profit/Loss = -5.1000
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : buy
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-11 09:28:05] -- [✔]  ==========>>  Get user account, token key and decoded
+
+  [2019-09-11 09:28:05] -- [✔]  ==========>>  Decode Account ID & Token : SUCCESSFULLY
+
+
+
+--------------------             STATE II : Generate API Client from User id and token             --------------------
+
+  [2019-09-11 09:28:11] -- [✔]  ==========>>  Generate client for user SUCCESSFULLY
+
+
+
+--------------------        STATE III : Check Conditions for First Order from User's config        --------------------
+
+  [2019-09-11 09:28:18] -- [✔]  ==========>>  user's balance checked
+
+  [2019-09-11 09:28:22] -- [✔]  ==========>>  market trainds & instrument price checked
+
+  [2019-09-11 09:28:25] -- [✔]  ==========>>  calculate stop loss price and take profit price finished
+
+
+
+--------------------                         STATE IV : Create First Order                         --------------------
+
+  [2019-09-11 09:28:28] -- [✔]  ==========>>  First order created with 'S' order, trade_id : 1423
+
+
+
+--------------------                      STATE V : Check User's Trade Status                      --------------------
+
+  [2019-09-11 09:28:34] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:28:37] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -1.7000
+
+  [2019-09-11 09:33:50] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:33:55] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -1.8000
+
+  [2019-09-11 09:39:08] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:39:11] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -1.9000
+
+  [2019-09-11 09:44:23] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:44:26] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -1.2000
+
+  [2019-09-11 09:49:38] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:49:41] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -1.2000
+
+  [2019-09-11 09:54:53] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 09:54:56] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -0.5000
+
+  [2019-09-11 10:00:09] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:00:11] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = 0.2000
+
+  [2019-09-11 10:05:24] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:05:27] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = 0.4000
+
+  [2019-09-11 10:10:39] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:10:42] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = 1.4000
+
+  [2019-09-11 10:15:54] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:16:02] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -0.9000
+
+  [2019-09-11 10:21:15] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:21:18] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -2.9000
+
+  [2019-09-11 10:26:31] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:26:34] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -3.7000
+
+  [2019-09-11 10:31:46] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:31:50] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -5.5000
+
+  [2019-09-11 10:37:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:37:05] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -5.5000
+
+  [2019-09-11 10:42:17] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:42:20] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -5.9000
+
+  [2019-09-11 10:47:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:47:36] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -6.9000
+
+  [2019-09-11 10:52:48] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:52:52] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -8.3000
+
+  [2019-09-11 10:58:04] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 10:58:07] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -7.5000
+
+  [2019-09-11 11:03:19] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:03:23] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.9000
+
+  [2019-09-11 11:08:37] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:08:40] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.5000
+
+  [2019-09-11 11:13:53] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:14:01] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.6000
+
+  [2019-09-11 11:19:14] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:19:17] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.5000
+
+  [2019-09-11 11:24:29] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:24:32] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.0000
+
+  [2019-09-11 11:29:44] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:29:48] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.0000
+
+  [2019-09-11 11:35:01] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:35:04] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.3000
+
+  [2019-09-11 11:40:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:40:19] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.0000
+
+  [2019-09-11 11:45:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:45:34] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.8000
+
+  [2019-09-11 11:50:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:50:50] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.8000
+
+  [2019-09-11 11:56:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 11:56:05] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.9000
+
+  [2019-09-11 12:01:17] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:01:21] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.0000
+
+  [2019-09-11 12:06:33] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:06:37] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.1000
+
+  [2019-09-11 12:11:49] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:11:52] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.7000
+
+  [2019-09-11 12:17:05] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:17:07] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.9000
+
+  [2019-09-11 12:22:20] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:22:23] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.8000
+
+  [2019-09-11 12:27:35] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:27:38] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.6000
+
+  [2019-09-11 12:32:50] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:32:53] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -21.6000
+
+  [2019-09-11 12:38:06] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:38:09] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.8000
+
+  [2019-09-11 12:43:21] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:43:24] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.8000
+
+  [2019-09-11 12:48:36] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:48:40] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.5000
+
+  [2019-09-11 12:53:53] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:53:57] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -21.0000
+
+  [2019-09-11 12:59:09] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 12:59:14] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.6000
+
+  [2019-09-11 13:04:26] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:04:30] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.1000
+
+  [2019-09-11 13:09:42] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:09:45] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -19.9000
+
+  [2019-09-11 13:14:57] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:15:01] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.8000
+
+  [2019-09-11 13:20:15] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:20:19] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -16.7000
+
+  [2019-09-11 13:25:31] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:25:34] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.2000
+
+  [2019-09-11 13:30:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:30:50] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -20.5000
+
+  [2019-09-11 13:36:02] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:36:05] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.2000
+
+  [2019-09-11 13:41:17] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:41:20] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.5000
+
+  [2019-09-11 13:46:32] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:46:35] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -18.1000
+
+  [2019-09-11 13:51:48] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:51:51] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -17.3000
+
+  [2019-09-11 13:57:03] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 13:57:06] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -15.5000
+
+  [2019-09-11 14:02:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:02:21] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -15.5000
+
+  [2019-09-11 14:07:33] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:07:36] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.4000
+
+  [2019-09-11 14:12:49] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:12:52] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.7000
+
+  [2019-09-11 14:18:04] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:18:07] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.8000
+
+  [2019-09-11 14:23:19] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:23:22] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.9000
+
+  [2019-09-11 14:28:34] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:28:38] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.5000
+
+  [2019-09-11 14:33:50] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:33:54] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.9000
+
+  [2019-09-11 14:39:06] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:39:09] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.1000
+
+  [2019-09-11 14:44:21] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:44:24] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -15.8000
+
+  [2019-09-11 14:49:37] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:49:39] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.4000
+
+  [2019-09-11 14:54:52] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 14:54:55] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.4000
+
+  [2019-09-11 15:00:07] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:00:10] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.0000
+
+  [2019-09-11 15:05:22] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:05:25] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.9000
+
+  [2019-09-11 15:10:38] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:10:41] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.0000
+
+  [2019-09-11 15:15:53] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:16:02] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -10.7000
+
+  [2019-09-11 15:21:14] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:21:17] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.0000
+
+  [2019-09-11 15:26:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:26:33] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -7.9000
+
+  [2019-09-11 15:31:45] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:31:48] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -8.4000
+
+  [2019-09-11 15:37:00] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:37:03] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.8000
+
+  [2019-09-11 15:42:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:42:19] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -11.1000
+
+  [2019-09-11 15:47:31] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:47:35] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.1000
+
+  [2019-09-11 15:52:47] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:52:50] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -11.7000
+
+  [2019-09-11 15:58:03] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 15:58:06] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.9000
+
+  [2019-09-11 16:03:18] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:03:21] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.0000
+
+  [2019-09-11 16:08:34] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:08:37] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -7.8000
+
+  [2019-09-11 16:13:49] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:13:52] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -7.4000
+
+  [2019-09-11 16:19:04] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:19:08] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -6.1000
+
+  [2019-09-11 16:24:20] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:24:23] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.0000
+
+  [2019-09-11 16:29:36] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:29:39] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -9.0000
+
+  [2019-09-11 16:34:51] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:34:54] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -10.5000
+
+  [2019-09-11 16:40:06] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:40:09] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -10.8000
+
+  [2019-09-11 16:45:22] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:45:25] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -11.5000
+
+  [2019-09-11 16:50:37] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:50:40] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.1000
+
+  [2019-09-11 16:55:52] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 16:56:02] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -14.1000
+
+  [2019-09-11 17:01:15] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 17:01:18] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -13.1000
+
+  [2019-09-11 17:06:30] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 17:06:33] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.7000
+
+  [2019-09-11 17:11:45] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 17:11:48] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -10.7000
+
+  [2019-09-11 17:17:00] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 17:17:03] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -11.6000
+
+  [2019-09-11 17:22:16] -- [✔]  ==========>>  First order is still trading
+
+  [2019-09-11 17:22:19] -- [✔]  ==========>>  order ID '1423' | Instrument : 'AUD_USD' | Price : '0.68560' | Unit : '-10000' | Profit/Loss = -12.6000
+
+  [2019-09-11 17:27:31] -- [✔]  ==========>>  Trade ID 1423 with AUD_USD instrument is closed already
+
+
+
+--------------------     STATE VI : Check Order Closed Transaction Reason and Create Summaries     --------------------
+
+  [2019-09-11 17:28:02] -- [✔]  ==========>>  Trade ID 1423 is closed by LIMIT_ORDER
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 1
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : buy
+Order Detail : [Unit : 10000 | SLP : 100 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-11 17:28:14] -- [✔]  ==========>>  Get user account, token key and decoded
+
+  [2019-09-11 17:28:14] -- [✔]  ==========>>  Decode Account ID & Token : SUCCESSFULLY
+
+
+
+--------------------             STATE II : Generate API Client from User id and token             --------------------
+
+  [2019-09-11 17:28:20] -- [✔]  ==========>>  Generate client for user SUCCESSFULLY
+
+
+
+--------------------        STATE III : Check Conditions for First Order from User's config        --------------------
+
+  [2019-09-11 17:28:24] -- [✔]  ==========>>  user's balance checked

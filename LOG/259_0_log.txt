@@ -1,0 +1,27 @@
+
+
+
+
+****************************************************************************************************
+****************************************************************************************************
+
+User_ID : 259
+Bot Slot Number : 0
+Mode I
+Instrument : 'AUD_USD' | Order Option : sell
+Order Detail : [Unit : 100 | SLP : 10 | TPP_1 : 20
+
+Bot Activities : 
+
+
+--------------------                    STATE I : Get User Config from Database                    --------------------
+
+  [2019-09-12 09:39:48] -- [✔]  ==========>>  Get user account, token key and decoded
+
+  [2019-09-12 09:39:48] -- [✔]  ==========>>  Decode Account ID & Token : SUCCESSFULLY
+
+
+
+--------------------             STATE II : Generate API Client from User id and token             --------------------
+
+  [2019-09-12 09:39:51] -- [✖]  ==========>>  api_key or secret_key is null
