@@ -1,5 +1,5 @@
 # Oanad_Forex_Auto_Trade_Public
-Forex trade bot on Oanda [Public Edition]
+## Forex trade bot on Oanda [Public Edition]
 
 - Update
  Last Update : 15/07/2019
