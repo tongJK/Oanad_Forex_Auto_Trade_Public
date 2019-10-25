@@ -13,7 +13,7 @@
  hyena scraping profit, morning star and evening star pattern trade etc.
 
 
- If you interested in this project, You can contact me.
+ - If you interested in this project, You can contact me.
 
 
 ## Requirement
